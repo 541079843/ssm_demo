@@ -21,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/com/ssm/seckill/dao/SuccessKilledDaoTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="417">
-              <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+              <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+              <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -96,7 +96,7 @@
             <state relative-caret-position="-820">
               <caret line="82" column="20" lean-forward="false" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
               <folding>
-                <marker date="1517304711962" expanded="true" signature="71900:71915" ph="..." />
+                <marker date="1517304799239" expanded="true" signature="71920:71935" ph="..." />
               </folding>
             </state>
           </provider>
@@ -693,9 +693,6 @@
     <history-entry file="SeckillDaoTest_queryAll - 2018.01.30 at 17h 27m 55s.xml">
       <configuration name="SeckillDaoTest.queryAll" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SeckillDaoTest_testReduceNumber - 2018.01.30 at 16h 29m 52s.xml">
-      <configuration name="SeckillDaoTest.testReduceNumber" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SuccessKilledDaoTest_insertSuccessKilled - 2018.01.30 at 16h 34m 09s.xml">
       <configuration name="SuccessKilledDaoTest.insertSuccessKilled" configurationId="JUnit" />
     </history-entry>
@@ -715,6 +712,9 @@
       <configuration name="SuccessKilledDaoTest.queryByIdWithSeckill" configurationId="JUnit" />
     </history-entry>
     <history-entry file="SuccessKilledDaoTest_queryByIdWithSeckill - 2018.01.30 at 17h 30m 55s.xml">
+      <configuration name="SuccessKilledDaoTest.queryByIdWithSeckill" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SuccessKilledDaoTest_queryByIdWithSeckill - 2018.01.30 at 17h 32m 23s.xml">
       <configuration name="SuccessKilledDaoTest.queryByIdWithSeckill" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -1164,7 +1164,7 @@
         <state relative-caret-position="-820">
           <caret line="82" column="20" lean-forward="false" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
           <folding>
-            <marker date="1517304711962" expanded="true" signature="71900:71915" ph="..." />
+            <marker date="1517304799239" expanded="true" signature="71920:71935" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1234,7 +1234,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/com/ssm/seckill/dao/SuccessKilledDaoTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="417">
-          <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+          <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1244,7 +1244,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
           <folding />
         </state>
       </provider>
